@@ -1,4 +1,5 @@
 # Development-Notes
 
-##Git
+## Git
+
 [Git Command Line Notes](git-command-line.md)
