@@ -2,6 +2,6 @@
 
 ### For a git repo, find the url of the origin (the "authoritative copy")
 
-'''bash
+''' bash
   git remote get-url --all origin
 '''
